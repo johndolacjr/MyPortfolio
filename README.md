@@ -18,10 +18,9 @@ vscode
 ## Description of My Portfolio
 -- update description
 
-## Images
-
 ## Licenses
 NA
 
 ## Collaborators:
 John Dolac
+HTML5 UP
