@@ -8,22 +8,18 @@ John Dolac's Portfolio
 https://johndolacjr.github.io/MyPortfolio/#about 
 
 ## GitHub Repository
--- Need Link
+  https://github.com/johndolacjr/MyPortfolio.git
 
 ## Technology Used
 HTML
 CSS
 JavaScript
 FontAwesome
-sass
+Sass
 vscode
 
 ## Description of My Portfolio
 -- update description
 
-## Licenses
-NA
-
 ## Collaborators:
 John Dolac
-HTML5 UP
