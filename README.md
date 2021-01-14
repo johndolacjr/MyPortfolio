@@ -19,7 +19,7 @@ Sass
 vscode
 
 ## Description of My Portfolio
--- update description
+This portfolio contains an about me section, development work I have done to improve my coding skills, photographs I have taken throughout my life, and contact information such as my email, phone number, social media pages and a link to my resume'. 
 
 ## Collaborators:
 John Dolac
